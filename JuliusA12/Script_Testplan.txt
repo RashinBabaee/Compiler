@@ -1,0 +1,22 @@
+# Script to execute the program 'example_program'
+
+# Introduction
+This script outlines the steps to execute the program. 
+
+# File Structure
+- The program files are located in the directory 'JuliusA12'.
+
+# Execution Steps
+1. Open the terminal or command prompt.
+2. Navigate to the directory 'JuliusA12'.
+3. Execute the program by typing the following command:
+   
+...  -i input_file -o output_file
+
+   The '-i' argument specifies the input file, and the '-o' argument specifies the output file.
+
+# Output
+The program generates a report in the form of a CSV file specified by the '-o' argument.
+
+# Error Handling
+In case of any errors, the program will log the error to the console and exit with a non-zero exit code.
